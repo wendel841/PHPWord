@@ -34,7 +34,7 @@
     "require": {
         "php": ">=5.3.3",
         "ext-xml": "*",
-        "zendframework/zend-escaper": "^3",
+        "zendframework/zend-escaper": "^2",
         "zendframework/zend-stdlib": "^3",
         "zendframework/zend-validator": "^3",
         "phpoffice/common": "0.2.*"
